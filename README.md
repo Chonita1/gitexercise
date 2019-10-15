@@ -1,9 +1,9 @@
 ## Welcome to Chonita's GitHub Page!
 The purpose of this page is to practice setting up a webpage on GitHub.
 
-You can use the [editor on GitHub](https://github.com/Chonita1/gitexercise/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I can use the [editor on GitHub](https://github.com/Chonita1/gitexercise/edit/master/README.md) to maintain and preview the content for my  website in Markdown files.
 
-aai used a GitHub Jekyll theme to run my webpage.
+I used a GitHub Jekyll theme to run my webpage.
 
 ### Jekyll Themes
 
